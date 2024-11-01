@@ -1,45 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Khaled_ghoneim/Khaled_ghoneim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---># Project Title
-
-## About Me
-
-Hello! I'm **Khaled Ghoneim**, a Computer Science student and a competitive programmer. I have a strong passion for problem-solving and enjoy working on algorithms and data structures. I'm currently studying at the Faculty of Computer Science at Suez Canal University.
-
-## About the Project
-
-This project is part of my journey in programming and competitive problem-solving. Through this project, I aim to improve my coding skills, explore new algorithms, and contribute to the programming community.
-
-## Skills and Interests
-
-- **Programming Languages**: C++, Python
-- **Fields of Interest**: Competitive programming, data structures, algorithms, computer science fundamentals
-- **Platforms**: Codeforces, LeetCode, and AtCoder
-
-## Contact
-
-Feel free to reach out!
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-
-## License
-
-This project is open-source, and you are free to use and contribute to it.
+Welcome to my GitHub profile! I'm **Khaled Ghoneim**, a Computer Science student at Suez Canal University and a competitive programmer. I love problem-solving, algorithms, and data structures and am always looking to expand my knowledge and skills.
 
 ---
 
+### 💼 About Me
 
+I'm passionate about technology and coding, and I actively participate in competitive programming contests. My focus areas include computer science fundamentals, data structures, and algorithms.
+
+### 🔧 Skills and Interests
+
+- **Programming Languages**: C++, Python, Java, JavaScript, HTML, CSS
+- **Fields of Interest**: Competitive programming, data structures, algorithms
+- **Platforms**: [Codeforces](https://codeforces.com/profile/khaled40), LeetCode, AtCoder
+
+### 🌐 Contact Me
+
+Feel free to reach out!
+
+- **Email**: [khaledkhaled01090@gmail.com](mailto:khaledkhaled01090@gmail.com)
+- **LinkedIn**: [Khaled Mohamed](https://www.linkedin.com/in/khaled-mohamed-453439299/)
+- **Codeforces**: [khaled40](https://codeforces.com/profile/khaled40)
+
+---
+
+Thanks for visiting my profile!

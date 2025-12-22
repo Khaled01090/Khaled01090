@@ -66,7 +66,7 @@ I actively solve problems on various platforms to sharpen my logic.
 ---
 
 <div align="center">
-  <img src="https://github.com/Khaled01090/Khaled01090/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Khaled01090/Khaled01090/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">

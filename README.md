@@ -4,7 +4,7 @@
 
   ### Hi there 👋, Welcome to my profile!
 
-  ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Khaled01090&label=Profile%20Views&color=0e75b6&style=flat)
 
   <p align="center">
     I am a Computer Science student at <b>Suez Canal University</b> and a passionate Competitive Programmer.
@@ -27,11 +27,11 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=Khaled01090&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled01090&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="streak graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaled01090&theme=tokyonight&hide_border=true" alt="streak graph" />
 
 </div>
 
@@ -66,7 +66,7 @@ I actively solve problems on various platforms to sharpen my logic.
 ---
 
 <div align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Khaled01090/Khaled01090/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">

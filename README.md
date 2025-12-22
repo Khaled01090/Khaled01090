@@ -54,8 +54,6 @@
 
 ### 🏆 Competitive Programming
 
-I actively solve problems on various platforms to sharpen my logic.
-
 | Platform | Profile |
 | :--- | :--- |
 | **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/khaled40) |
